@@ -1,0 +1,2 @@
+<?php
+//Keep it simple.
